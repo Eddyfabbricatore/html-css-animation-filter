@@ -57,3 +57,12 @@
 .ex-7-img:hover{
   filter: grayscale(1) saturate(0.2);
 }
+
+.ex-8-img{
+  transition: 1s;
+}
+
+.ex-8-img:hover{
+  filter: brightness(0.25) sepia(0.6);
+  border-radius: 20px;
+}
